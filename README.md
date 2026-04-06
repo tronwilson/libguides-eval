@@ -22,5 +22,4 @@ Finally, we want to balance any aesthetic decisions against the ability of (a) u
 Overall, I'd like for us to be able to develop some clear demonstrations and have some concrete recommendations that we can take to the Library decision makers in order to enact some policy changes for the creation and maintenance of LibGudes which should result in a better development experience for the content creators and an improved user experience for our intended audience. 
 
 ### References
-
-[Research Guides at MIT]: (https://libraries.mit.edu/experts/)
+[Research Guides at MIT](https://libraries.mit.edu/experts/)
