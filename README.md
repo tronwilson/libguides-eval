@@ -1,5 +1,5 @@
 ---
-Title: "LibGuides Strike Team"
+Title: "LibGuides Re-evaluation Project"
 description: "To aid Librarians in the creation of new and useful LibGuides and useful information"
 pubdate: 04022026
 ---
