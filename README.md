@@ -6,7 +6,7 @@ pubdate: 04022026
 
 # Overview
 
-As LibGuides is the primary means by which we provide library guides, instructional content and information about the library and its collections and servvices content to our patrons and stakeholders it is vital that we ensure that the content up-to-date, relevant, useful and accessible. In addition, as our digital landscape is becoming increasingly saturated with synthetic content, the information provided through LibGuides can take on an increasingly significant role of being a source of digital provenance for legal research information.
+As LibGuides is the primary means by which we provide instructional content and information about the library and about its content to our patrons and stakeholders, it is vital that we ensure that the content up-to-date, relevant, useful and accessible. In addition, as our digital landscape is becoming increasingly saturated with synthetic content, the information provided through LibGuides can take on an increasingly significant role by being a source of digital provenance for legal research information.
 
 ## Scope
 
@@ -18,7 +18,7 @@ To this end, I propose that we re-evaluate our LibGuides along the following thr
 
 ### Audience & Purpose
 
-Generally we should structure our content based on the audience and purpose of the guide. So for example, if we create a general information guide that should probably have a different template and structure than a guide that's created as a list of resources for a specific class.
+Historically it seemms that LibGuides served a fundamentally different purpose to the one that it might serve in our current digital climate. by the late 1990's library's were still mostly nexus's for lending physical copies of books and making print jounrnals and updates available to patrons. The Guides then served an important role in giving patrons necessary information to locate difficult to find materails among the stacks as it were.
 
 ### Presentation of Content
 
