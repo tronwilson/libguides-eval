@@ -18,7 +18,7 @@ To this end, I propose that we re-evaluate our LibGuides along the following thr
 
 ### Audience & Purpose
 
-Historically it seemms that LibGuides served a fundamentally different purpose to the one that it might serve in our current digital climate. by the late 1990's library's were still mostly nexus's for lending physical copies of books and making print jounrnals and updates available to patrons. The Guides then served an important role in giving patrons necessary information to locate difficult to find materails among the stacks as it were.
+Historically it seems that LibGuides served a fundamentally different purpose to the one that it might serve in our current digital climate. by the late 1990's library's were still mostly nexus's for lending physical copies of books and making print jounrnals and updates available to patrons. The Guides then served an important role in giving patrons necessary information to locate difficult to find materails among the stacks as it were.
 
 ### Presentation of Content
 
