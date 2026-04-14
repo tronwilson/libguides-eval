@@ -18,7 +18,15 @@ To this end, I propose that we re-evaluate our LibGuides along the following thr
 
 ### Audience & Purpose
 
-Historically it seems that LibGuides served a fundamentally different purpose to the one that it might serve in our current digital climate. by the late 1990's library's were still mostly nexus's for lending physical copies of books and making print jounrnals and updates available to patrons. The Guides then served an important role in giving patrons necessary information to locate difficult to find materails among the stacks as it were.
+LibGuides were originally intended to serve as an aid to folks struggling to
+navigate the stacks and collections of a library which could be labyrinthine in
+its layout and esoteric in its organization. However, these days the internet
+has mostly flattened the structure of information so that we have information
+served up to us through the electronic user interface. IN keeping with this
+reality, it seems that LibGuides should evolve to provide useful information to
+a library's patrons. Why would someone want to use the Library when they could
+just use ChatGippity? This is the primary question we need to answer. Why should
+we even spend time working on these guides?
 
 ### Presentation of Content
 
